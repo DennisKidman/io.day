@@ -65,16 +65,18 @@ NS records:
     value: ns2.1984.is
     ttl: "86400"
   - name: wtf
-    value: dns1.p01.nsone.net
+    value: freedns1.registrar-servers.com
     ttl: "3600"
   - name: wtf
-    value: dns2.p01.nsone.net
+    value: freedns2.registrar-servers.com
     ttl: "3600"
   - name: wtf
-    value: dns3.p01.nsone.net
+    value: freedns3.registrar-servers.com
     ttl: "3600"
   - name: wtf
-    value: dns4.p01.nsone.net
+    value: freedns4.registrar-servers.com
+  - name: wtf
+    value: freedns5.registrar-servers.com
 
 # The following domain names are reserved and should not be modified.
 Reserved records:
