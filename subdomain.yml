@@ -138,6 +138,18 @@ NS records:
   - name: nc
     value: ns1.huaweicloud-dns.com
     ttl: "14400"
+  - name: null
+    value: ns1.byet.org
+    ttl: "14400"
+  - name: null
+    value: ns2.byet.org
+    ttl: "14400"
+  - name: null
+    value: ns3.byet.org
+    ttl: "14400"
+  - name: null
+    value: ns4.byet.org
+    ttl: "14400"
 
 # Records of type A are exclusively utilized for IPv4.
 A records:
