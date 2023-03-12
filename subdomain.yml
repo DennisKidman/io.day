@@ -14,6 +14,9 @@
 # We recommend you to use CNAME records.
 # Please add custom domain in this zone.
 CNAME records:
+  - name: apolo
+    value: raspy.apolo77.workers.dev
+    proxy: true
   - name: test
     value: test.com
     proxy: true
